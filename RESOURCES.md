@@ -1,15 +1,15 @@
-<h1 style="color: red; font-size: 36px;">FREE SOURCES FOR ML PROJECTS</h1>
+# FREE SOURCES FOR ML PROJECTS
 
-<h1 style="color: green; font-size: 20px;">DATASETS</h1>
+## DATASETS
 
 *Sources of free datasets to practice on*
-- https://www.kaggle.com/ (Kaggle)
-- https://archive.ics.uci.edu/ (UCI ML repository)
+- [Kaggle](https://www.kaggle.com/)
+- [UCI ML repository](https://archive.ics.uci.edu/)
 
 *Websites where other free sources are listed*
-- https://careerbootcamps.tlcenter.wustl.edu/blog/data-science/free-public-data-sets-for-data-science-data-analytics-projects/
+- [List of Free Public Datasets](https://careerbootcamps.tlcenter.wustl.edu/blog/data-science/free-public-data-sets-for-data-science-data-analytics-projects/)
 
-<h1 style="color: green; font-size: 20px;">BOOKS</h1>
+## BOOKS
 
 *General*
 - book n. 1
